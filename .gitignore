@@ -1,3 +1,4 @@
 .env
 tagged_description.txt
 .idea/
+*.csv
